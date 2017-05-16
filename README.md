@@ -1,6 +1,6 @@
 # Deep-Bayesian-Active-Learning
 If you use this code for academic research, you are highly encouraged to cite the following paper:
-Yarin Gal, Riashat Islam, Zoubin Ghahramani. "Deep Bayesian Active Learning". https://arxiv.org/pdf/1703.02910.pdf
+Yarin Gal, Riashat Islam, Zoubin Ghahramani. "Deep Bayesian Active Learning". ICML 2017. https://arxiv.org/pdf/1703.02910.pdf
 
 Comments:
 Code available with both Keras and Lasagne.
